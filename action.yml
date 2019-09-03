@@ -1,0 +1,5 @@
+name: 'Webpack'
+description: 'Deploys webpack to the /webpack branch.'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
